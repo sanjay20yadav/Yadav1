@@ -1,0 +1,17 @@
+{
+    "name":"Mansh",
+    "description": "this is mansh second project",
+    "authors": [
+    {
+        "name":"Mansh Yadav",
+        "email":"yadav.sanjay20yadav@gmail.com"
+    }
+   ],
+   "minimum-stability": "dev",
+   "require":{},
+   "autoload": {
+       "psr-4": {
+           "Mansh\\":"mann/"
+       }
+   }
+}
